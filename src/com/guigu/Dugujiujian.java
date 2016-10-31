@@ -10,6 +10,7 @@ public class Dugujiujian {
 		System.out.println(date);
 		System.out.println(date);
 		System.out.println(date);
+		System.out.println("new day");
 		
 	}
 
