@@ -7,6 +7,8 @@ public class Dugujiujian {
 		Date date = new Date();
 		System.out.println(date);
 		System.out.println(date);
+		System.out.println("1111");
+		System.out.println(date);
 		System.out.println(date);
 		System.out.println(date);
 		System.out.println(date);
