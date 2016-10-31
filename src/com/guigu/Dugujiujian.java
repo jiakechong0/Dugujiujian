@@ -8,6 +8,7 @@ public class Dugujiujian {
 		System.out.println("1111");
 		System.out.println("new day");
 		System.out.println("new day11");
+		System.out.println("new day13");
 		
 	}
 
